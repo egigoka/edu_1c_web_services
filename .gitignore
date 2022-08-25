@@ -1,0 +1,7 @@
+exec.lck
+*.lgp
+*.lgf
+*.tmp
+1Cv8tmp.*
+*.cfl
+*.cgr
